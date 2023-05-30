@@ -1,0 +1,11 @@
+.body{
+    background-color: beige;
+}
+.text-center{
+    color: blue;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+.img-fluid{
+    padding-top: 50px;
+    padding-left: 350px;
+}
